@@ -6,7 +6,7 @@ import Register from './components/RegistrationForm/Screens';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Register />
+      <Navigators />
     </View>
   );
 }
